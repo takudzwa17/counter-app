@@ -1,2 +1,2 @@
 # counter-app
-counter-app created using React
+counter-app created using ReactJs
